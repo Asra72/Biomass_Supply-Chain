@@ -1,0 +1,42 @@
+checking summary_report.txt against supply_chain.db
+
+ok  delivered shipments
+ok  delayed shipments
+ok  cancelled shipments
+ok  total shipments
+ok  total delivered tonnes
+ok  total delivered cost
+ok  processed tonnes
+ok  processed cost
+ok  raw tonnes
+ok  raw cost
+ok  agricultural shipments
+ok  agricultural tonnes
+ok  forestry shipments
+ok  forestry tonnes
+ok  processing shipments
+ok  processing tonnes
+ok  monthly volume 2023-01
+ok  monthly volume 2023-02
+ok  monthly volume 2023-03
+ok  monthly volume 2023-04
+ok  monthly volume 2023-05
+ok  monthly volume 2023-06
+MISMATCH  monthly volume 2023-07
+  report:  310.0
+  actual:  281.5
+  diff:    -28.5
+
+ok  monthly volume 2023-08
+ok  monthly volume 2023-09
+ok  monthly volume 2023-10
+ok  monthly volume 2023-11
+ok  monthly volume 2023-12
+MISMATCH  number of active suppliers
+  report:  9
+  actual:  8
+  diff:    -1.0
+
+
+--- done ---
+mismatches found: 2

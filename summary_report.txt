@@ -1,0 +1,54 @@
+Supply Chain Summary – 2023
+---
+
+Shipment status breakdown
+  Delivered:   238
+  Delayed:      86
+  Cancelled:    76
+  Total:       400
+
+Total delivered volume:   2,634.4 tonnes
+Total delivered cost:   161,740.50
+
+Volume and cost by product type (delivered only)
+  Processed:   1,040.7 tonnes   104,248.80
+  Raw:         1,593.7 tonnes    57,491.70
+
+Delivered volume by supplier type
+  Agricultural:   1,350.2 tonnes   (121 shipments)
+  Forestry:         655.6 tonnes   (62 shipments)
+  Processing:       628.6 tonnes   (55 shipments)
+
+Monthly delivered volume 2023
+  Jan:   243.5 t   (21 shipments)
+  Feb:   169.2 t   (16 shipments)
+  Mar:   234.0 t   (21 shipments)
+  Apr:   164.1 t   (15 shipments)
+  May:   180.6 t   (18 shipments)
+  Jun:   190.8 t   (20 shipments)
+  Jul:   310.0 t   (22 shipments)
+  Aug:   189.4 t   (18 shipments)
+  Sep:   223.9 t   (20 shipments)
+  Oct:   271.6 t   (25 shipments)
+  Nov:   212.2 t   (18 shipments)
+  Dec:   273.6 t   (24 shipments)
+
+Top 3 suppliers by volume delivered
+  ForestSource Ltd     362.7 t
+  Greenfield Biomass   362.7 t
+  RuralBiomass         340.8 t
+
+Cancellation rate by supplier type
+  Agricultural:   19.6%
+  Processing:     18.9%
+  Forestry:       17.8%
+
+Average shipment size by product (delivered)
+  Corn Stover:          11.9 t
+  Wood Pellets:         11.7 t
+  Straw Pellets:        11.4 t
+  Wood Chips:           11.1 t
+  Bark Chips:           10.6 t
+  Agricultural Waste:    9.4 t
+
+Number of active suppliers: 9
